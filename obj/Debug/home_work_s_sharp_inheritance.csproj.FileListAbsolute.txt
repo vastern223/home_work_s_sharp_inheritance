@@ -1,0 +1,7 @@
+C:\Users\Kolotyuk\source\repos\home_work_s_sharp_inheritance\home_work_s_sharp_inheritance\obj\Debug\home_work_s_sharp_inheritance.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_s_sharp_inheritance\home_work_s_sharp_inheritance\obj\Debug\home_work_s_sharp_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_s_sharp_inheritance\home_work_s_sharp_inheritance\bin\Debug\home_work_s_sharp_inheritance.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_s_sharp_inheritance\home_work_s_sharp_inheritance\bin\Debug\home_work_s_sharp_inheritance.exe
+C:\Users\Kolotyuk\source\repos\home_work_s_sharp_inheritance\home_work_s_sharp_inheritance\bin\Debug\home_work_s_sharp_inheritance.pdb
+C:\Users\Kolotyuk\source\repos\home_work_s_sharp_inheritance\home_work_s_sharp_inheritance\obj\Debug\home_work_s_sharp_inheritance.exe
+C:\Users\Kolotyuk\source\repos\home_work_s_sharp_inheritance\home_work_s_sharp_inheritance\obj\Debug\home_work_s_sharp_inheritance.pdb
